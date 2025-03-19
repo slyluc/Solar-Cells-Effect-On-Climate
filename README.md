@@ -49,3 +49,8 @@ Ensure you have Python 3.7+ installed. It is recommended to use a virtual enviro
    ```bash
    git clone https://github.com/slyluc/Solar-Cells-Effect-On-Climate.git
    cd Solar-Cells-Effect-On-Climate
+
+### Authers
+- Luc Holme Qvistgaard
+- Magnus Skjøtt Jensen
+- Tobias Eigen
